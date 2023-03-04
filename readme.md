@@ -1,2 +1,1 @@
 # Semantic release demo
-
